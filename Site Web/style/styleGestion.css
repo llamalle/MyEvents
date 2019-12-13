@@ -1,0 +1,55 @@
+h2 {
+	text-align:center;
+}
+
+#div1 {
+    position: absolute; width: 100%; height: 100%;
+}
+
+.text1 {
+	text-align: center;
+}
+
+.select1 {
+	display: inline !important;
+	width: 84% !important;
+}
+
+.btnV {
+	display: inline;
+	width: 15%;
+}
+
+.btnV2 {
+	display: inline;
+	width: calc(100% - 20px);
+	padding: 10px;
+	margin: 10px;
+}
+
+.tab {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding:20px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+#inputTheme {
+	background: none;
+}
+
+.add-rm {
+	padding-top : 15px;
+}
+
+.select2 {
+	display: inline !important;
+	width: 33% !important;
+}
+
+.select3 {
+	display: inline !important;
+	width: 49% !important;
+	margin: 3.2px;
+}
